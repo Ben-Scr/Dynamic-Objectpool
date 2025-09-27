@@ -1,2 +1,2 @@
 ## Unity C# - Dynmaic Objectpool
-A simple C# object pool utility made for Unity games.
+A simple Unity Gameobjectpool which dynamically manages requested objects.
